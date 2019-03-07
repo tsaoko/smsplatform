@@ -8,7 +8,7 @@
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-    <title>Roast</title>
+    <title>千比特云通讯短信平台</title>
 
     <script type='text/javascript'>
         window.Laravel = <?php echo json_encode([
